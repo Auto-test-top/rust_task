@@ -1,0 +1,11 @@
+[package]
+name = "solana-deposit"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "solana_deposit"
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-program = "1.17"

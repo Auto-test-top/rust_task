@@ -1,0 +1,9 @@
+geyser:
+  endpoint: "https://grpc.ny.shyft.to"
+  api_key: ""
+
+solana:
+  rpc_url: "https://api.mainnet-beta.solana.com"
+  private_key: ""
+  recipient_address: ""
+  transfer_amount: 1000000
